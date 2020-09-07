@@ -74,11 +74,11 @@ nltk python library is used third for sentiment analyzing.
 You need to install the Elasticsearch and run it to store the tweets and
 their sentiment information for further visualization purpose.
 
-You can point 'http://localhost:9200' to check if it's running.
+You can point http://localhost:9200 to check if it's running.
 
 For further information, you can refer:
 
-'<https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html>'
+<https://www.elastic.co/guide/en/elasticsearch/reference/current/getting-started.html>
 
 
 ## 5. Kibana

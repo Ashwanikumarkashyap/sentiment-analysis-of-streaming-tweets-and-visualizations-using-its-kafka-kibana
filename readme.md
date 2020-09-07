@@ -56,8 +56,7 @@ For example,
 "Trump has displayed little interest in the policy itself, casting it as a thankless chore to be done before getting to tax-cut legislation he values more."
 - has negative sentiment.
 
-The above examples are taken from CNBC news:
-<http://www.cnbc.com/2017/03/22/trumps-first-big-test-comes-as-hes-in-an-unusual-position-of-weakness.html>
+The above examples are taken from CNBC news: <http://www.cnbc.com/2017/03/22/trumps-first-big-test-comes-as-hes-in-an-unusual-position-of-weakness.html>
 
 nltk python library is used third for sentiment analyzing.
 

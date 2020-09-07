@@ -5,8 +5,7 @@ Elastic, and Kibana. The framework performs SENTIMENT analysis of hash
 tags in twitter data in real-time. For example, we want to do the
 sentiment analysis for all the tweets for \#trump, \#coronavirus.
 
-![](media/image1.png){width="6.268055555555556in"
-height="1.492361111111111in"}
+![](media/image1.png)
 
 Figure: Sentiment analysis framework
 
@@ -66,7 +65,7 @@ more." - has negative sentiment.
 
 The above examples are taken from CNBC news:
 
-'<http://www.cnbc.com/2017/03/22/trumps-first-big-test-comes-as-hes-in-an-unusual-position-of-weakness.html>'
+<http://www.cnbc.com/2017/03/22/trumps-first-big-test-comes-as-hes-in-an-unusual-position-of-weakness.html>
 
 nltk python library is used third for sentiment analyzing.
 
@@ -75,7 +74,7 @@ nltk python library is used third for sentiment analyzing.
 You need to install the Elasticsearch and run it to store the tweets and
 their sentiment information for further visualization purpose.
 
-You can point '<http://localhost:9200>' to check if it's running.
+You can point 'http://localhost:9200' to check if it's running.
 
 For further information, you can refer:
 
@@ -87,4 +86,4 @@ Kibana is a visualization tool that can explore the data stored in
 elasticsearch. In the project, instead of directly output the result,
 visualization tool is used to show the tweets sentiment classification
 result in a real-time manner. Please see the documentation for more information:
-[[https://www.elastic.co/guide/en/kibana/current/getting-started.html]](https://www.elastic.co/guide/en/kibana/current/getting-started.html)
+[https://www.elastic.co/guide/en/kibana/current/getting-started.html](https://www.elastic.co/guide/en/kibana/current/getting-started.html)

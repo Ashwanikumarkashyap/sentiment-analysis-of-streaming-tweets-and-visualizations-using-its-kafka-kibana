@@ -47,24 +47,16 @@ mining, deriving the opinion or attitude of a speaker.
 
 For example,
 
-"President Donald Trump approaches his first big test this week from a
+"President Donald Trump approaches his first big test this week from a position of unusual weakness."
+- has positive sentiment.
 
-position of unusual weakness." - has positive sentiment.
+"Trump has the lowest standing in public opinion of any new president in modern history."
+- has neutral sentiment.
 
-"Trump has the lowest standing in public opinion of any new president in
-
-modern history." - has neutral sentiment.
-
-"Trump has displayed little interest in the policy itself, casting it as
-a
-
-thankless chore to be done before getting to tax-cut legislation he
-values
-
-more." - has negative sentiment.
+"Trump has displayed little interest in the policy itself, casting it as a thankless chore to be done before getting to tax-cut legislation he values more."
+- has negative sentiment.
 
 The above examples are taken from CNBC news:
-
 <http://www.cnbc.com/2017/03/22/trumps-first-big-test-comes-as-hes-in-an-unusual-position-of-weakness.html>
 
 nltk python library is used third for sentiment analyzing.
